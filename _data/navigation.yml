@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Bewerben
+  link: /singup.html
+- name: Struktur
+  link: /members.html
+- name: Social Media
+  link: /media.html

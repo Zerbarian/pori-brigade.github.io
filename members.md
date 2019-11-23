@@ -3,7 +3,7 @@ layout: pages
 title: Struktur
 ---
 # Struktur
-<img src="/assets/images/teaser2.jpg" class="img-fluid">
+<img src="{{ "/assets/images/teaser2.jpg" | relative_url }}" class="img-fluid">
 <br />
 Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.   
 

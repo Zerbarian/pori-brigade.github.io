@@ -3,7 +3,7 @@ layout: pages
 title: Bewerben
 ---
 
-<img src="/assets/images/teaser1.jpg" class="img-fluid">
+<img src="{{ "/assets/images/teaser1.jpg" | relative_url }}" class="img-fluid">
     
 ### Was ist die Pori Brigade?
 
@@ -35,7 +35,7 @@ Da dieser (nach unserer Auffassung und Meinung ) für uns wichtigere Features be
 
 ### Wie kann ich eine Bewerbung absenden?
 
-Du kannst einfach unserem <a href="/media.html">Discord</a> beitreten. Dort kannst du dann einen Member(Clanleitung) per DM anschreiben, am besten mit folgenden Infos:
+Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</a> beitreten. Dort kannst du dann einen Member(Clanleitung) per DM anschreiben, am besten mit folgenden Infos:
 
 * Ingamename
 * Steamprofil(Link)

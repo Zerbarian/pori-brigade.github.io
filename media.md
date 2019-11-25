@@ -4,8 +4,6 @@ title: Social Media
 ---
 # Media
 
-This page tells you a little bit about me.
-
 ### Discord
 <iframe src="https://discordapp.com/widget?id=607568158785536000&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 

@@ -45,3 +45,5 @@ Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</
 
 Dort können auch deine restlichen Fragen geklärt werden.   
 Wir freuen uns auf deine Bewerbung!
+
+<sup>Wenn du dich bei uns bewirbst, stimmst du der <a href="{{ "/satzung.html" | relative_url }}">Satzung</a> zu(gelesen und verstanden).</sup>

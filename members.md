@@ -19,22 +19,22 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
   <tbody>
     <tr>
       <th scope="row">Platoonleader</th>
-      <th>Luutnantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Luutnantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Assistant Platoonleader</th>
-      <th>Sotilasmestari </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotilasmestari_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Medic</th>
-      <th>Alikersantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">RTO</th>
-      <th>Korporaali</th>
+      <th><img src="{{ "/assets/images/ranks/323px-Korpraali_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
   </tbody>
@@ -52,47 +52,47 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
   <tbody>
     <tr>
       <th scope="row">SQL</th>
-      <th>Kersantti</th>
-      <td>LADziver</td>
+      <th><img src="{{ "/assets/images/ranks/100px-Kersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b>LADziver</b></td>
     </tr>
     <tr>
       <th scope="row">Medic</th>
-      <th>Alikersantti</th>
-      <td>Realeasy</td>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b>Realeasy</b></td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
-      <td>Bane</td>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
+      <td><b>Bane</b></td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
-      <td>flaver</td>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b>flaver</b></td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
-      <td>WarBorn</td>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b>WarBorn</b></td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
   </tbody>
@@ -110,47 +110,47 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
   <tbody>
     <tr>
       <th scope="row">SQL</th>
-      <th>Kersantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Kersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Medic</th>
-      <th>Alikersantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
   </tbody>
@@ -168,47 +168,47 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
   <tbody>
     <tr>
       <th scope="row">SQL</th>
-      <th>Kersantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Kersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Medic</th>
-      <th>Alikersantti</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
-      <th>Alikersantti </th>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
       <th scope="row">Manschafter</th>
-      <th>Jääkäri</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
   </tbody>

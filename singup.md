@@ -38,7 +38,7 @@ Da dieser (nach unserer Auffassung und Meinung ) für uns wichtigere Features be
 Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</a> beitreten. Dort kannst du dann in dem Channel Bewerbung eine Nachricht senden. Am besten mit folgenden Infos:
 
 * Ingamename
-* Steamprofil(Link)
+* Steamprofil(Link) 
 * Wie hast du uns gefunden
 * Gesprächstermin 1 (Bsp: 12.11.2019 1900 Uhr)
 * Gesprächstermin 2 

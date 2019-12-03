@@ -35,7 +35,7 @@ Da dieser (nach unserer Auffassung und Meinung ) für uns wichtigere Features be
 
 ### Wie kann ich eine Bewerbung absenden?
 
-Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</a> beitreten. Dort kannst du dann einen Member(Clanleitung) per DM anschreiben, am besten mit folgenden Infos:
+Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</a> beitreten. Dort kannst du dann in dem Channel Bewerbung eine Nachricht senden. Am besten mit folgenden Infos:
 
 * Ingamename
 * Steamprofil(Link)
@@ -43,6 +43,7 @@ Du kannst einfach unserem <a href="{{ "/media.html" | relative_url }}">Discord</
 * Gesprächstermin 1 (Bsp: 12.11.2019 1900 Uhr)
 * Gesprächstermin 2 
 
+Dann wird sich einer von uns mit dir in Verbindung setzten, um mit dir ein Bewerbungsgespräch zu führen.
 Dort können auch deine restlichen Fragen geklärt werden.   
 Wir freuen uns auf deine Bewerbung!
 

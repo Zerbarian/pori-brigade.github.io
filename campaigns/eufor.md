@@ -10,7 +10,7 @@ title: EUFOR 2020
 <br>
 
 ## Lage
-Malden 2019, mit der veröffentlichungen der private Gespräche von Ministerpräsident Bisset, wurde das Land in eine tiefe politische Kriese gestürtz.<br>
+Malden 2019, mit der veröffentlichungen der private Gespräche von Ministerpräsident Bisset, wurde das Land in eine tiefe politische Kriese gestürzt.<br>
 Nach den Gesprächen nach, hatte der Ministerpräsident wohl einige krumme Geschäfte am laufen. Bisset selbst war bis dahin ein beliebter Ministerpräsident gewesen,<br>
 er reformierte das Land und brachte viele internationale Investoren nach Malden. Vorallem der Bankenstandort Malden profitierte von der Bisset-Reform,<br>
 diese lockerte die regulierung der Investment-Branche.

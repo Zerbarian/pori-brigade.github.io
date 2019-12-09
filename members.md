@@ -5,7 +5,7 @@ title: Struktur
 # Struktur
 <img src="{{ "/assets/images/teaser2.jpg" | relative_url }}" class="img-fluid">
 <br />
-Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.   
+Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.   
 
 ### Command
 <table class="table">
@@ -71,27 +71,27 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td><b>flaver</b></td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td><b>WarBorn</b></td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
@@ -129,27 +129,27 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
@@ -187,27 +187,27 @@ Die Pori Brigade gliedert sich in 3 Gruppen bzw 4 Gruppen.
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Manschafter</th>
+      <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>

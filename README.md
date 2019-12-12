@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/zerbarian/823243dd-2439-47f2-9359-9f85174492df/6675266f-07d6-4195-9629-c86a4bf74ba0/_apis/work/boardbadge/11321d8e-b322-4372-8e9e-ad5043ffff25)](https://dev.azure.com/zerbarian/823243dd-2439-47f2-9359-9f85174492df/_boards/board/t/6675266f-07d6-4195-9629-c86a4bf74ba0/Microsoft.RequirementCategory)
 # pori-brigade.github.io

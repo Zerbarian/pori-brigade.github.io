@@ -83,7 +83,7 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
     <tr>
       <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td>Rudi Flink</td>
+      <td><b>Rudi Flink</b></td>
     </tr>
     <tr>
       <th scope="row">Mannschafter</th>

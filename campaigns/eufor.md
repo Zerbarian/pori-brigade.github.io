@@ -2,7 +2,7 @@
 layout: pages
 title: EUFOR 2020
 ---
-# EUFOR 2020 (Q1 2020)
+# EUFOR 2020
 
 <img src="{{ "/assets/images/kampagne/eufor/EUFORMALDEN.png" | relative_url }}" class="img-fluid">
 <br>

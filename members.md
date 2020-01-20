@@ -53,17 +53,12 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
     <tr>
       <th scope="row">SQL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Kersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td><b>LADziver</b></td>
-    </tr>
-    <tr>
-      <th scope="row">Medic</th>
-      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td><b>Realeasy</b></td>
+      <td><b><a href="{{ "/members/ladziver.html" | relative_url }}">LADziver</a></b></td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
-      <td><b>Bane</b></td>
+      <td><b><a href="{{ "/members/bane.html" | relative_url }}">Bane</a></b></td>
     </tr>
     <tr>
       <th scope="row">FTL</th>
@@ -72,18 +67,23 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
     </tr>
     <tr>
       <th scope="row">Mannschafter</th>
-      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td><b>flaver</b></td>
+      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b><a href="{{ "/members/realeasy.html" | relative_url }}">Realeasy</a></b></td>
+    </tr>
+    <tr>
+      <th scope="row">Mannschafter</th>
+      <th><img src="{{ "/assets/images/ranks/323px-Korpraali_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
+      <td><b><a href="{{ "/members/flaver.html" | relative_url }}">flaver</a></b></td>
     </tr>
     <tr>
       <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td><b>WarBorn</b></td>
+      <td><b><a href="{{ "/members/warborn.html" | relative_url }}">WarBorn</a></b></td>
     </tr>
     <tr>
       <th scope="row">Mannschafter</th>
       <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td><b>Rudi Flink</b></td>
+      <td><b><a href="{{ "/members/rudi-flink.html" | relative_url }}">Rudi Flink</a></b></td>
     </tr>
     <tr>
       <th scope="row">Mannschafter</th>
@@ -114,11 +114,6 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Medic</th>
-      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td>N/A</td>
-    </tr>
-    <tr>
       <th scope="row">FTL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
@@ -126,6 +121,11 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
     <tr>
       <th scope="row">FTL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <th scope="row">Mannschafter</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>
@@ -172,11 +172,6 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
       <td>N/A</td>
     </tr>
     <tr>
-      <th scope="row">Medic</th>
-      <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
-      <td>N/A</td>
-    </tr>
-    <tr>
       <th scope="row">FTL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
       <td>N/A</td>
@@ -184,6 +179,11 @@ Die Pori Brigade gliedert sich in einen Zugtrupp und drei Gruppen.
     <tr>
       <th scope="row">FTL</th>
       <th><img src="{{ "/assets/images/ranks/100px-Alikersantti_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"> </th>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <th scope="row">Mannschafter</th>
+      <th><img src="{{ "/assets/images/ranks/100px-Sotamies_kauluslaatta.svg.png" | relative_url }}" class="img-fluid"></th>
       <td>N/A</td>
     </tr>
     <tr>

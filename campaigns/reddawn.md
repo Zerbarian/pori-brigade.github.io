@@ -3,7 +3,10 @@ layout: pages
 title: Red Dawn
 ---
 # Red Dawn
-
+<img src="{{ "/assets/images/kampagne/reddawn/EUFORMALDEN.png" | relative_url }}" class="img-fluid">
+<br>
+*Disclaimer: Alle Handlungen und Namen sind frei erfunden, haben nichts mit der Realität zu tun. Parallelen sind nicht beabsichtigt*
+<br>
 ## Geschichte
 
 Nach dem zusammenbruch der UDSSR musste sich auch Livonia neu Orientieren. Man versuchte von beginn an sich dem Westen anzunähern.

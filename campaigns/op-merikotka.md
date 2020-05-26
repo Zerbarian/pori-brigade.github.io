@@ -5,7 +5,12 @@ title: OP Merikotka
 ---
 # OP Merikotka
 
-![](https://cdn.discordapp.com/attachments/435047765945352203/704470323956940841/20200428005223_1.jpg)
+<img src="https://cdn.discordapp.com/attachments/435047765945352203/704470323956940841/20200428005223_1.jpg" class="img-fluid">
+<br>
+*Disclaimer: Alle Handlungen und Namen sind frei erfunden, haben nichts mit der Realität zu tun. Parallelen sind nicht beabsichtigt*
+<br>
+## Geschichte
+
 
 2004: Mehrere ehmalige sowjetische Staaten werden in die EU aufgenommen, darunter auch Polen. Einige Nationalisten sehen Polen als ein unabhängiges Land.
 

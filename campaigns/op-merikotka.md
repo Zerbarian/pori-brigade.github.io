@@ -1,7 +1,6 @@
 ---
 layout: pages
 title: OP Merikotka
-published: false
 
 ---
 # OP Merikotka

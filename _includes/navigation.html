@@ -11,16 +11,6 @@
                         <a href="{{ item.link | relative_url }}" class="nav-link">{{ item.name }}</a>
                     </li>
                 {% endfor %}
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Kampagnen
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        {% for item in site.data.campaigns %}
-                            <a class="dropdown-item" href="{{ item.link | relative_url }}">{{ item.name }}</a>
-                        {% endfor %}
-                    </div>
-                </li>
             </ul>
             </div>
         </nav>

@@ -1,0 +1,36 @@
+---
+layout: pages
+title: Struktur
+---
+<h1>Struktur</h1>
+<img src="{{ "/assets/images/teaser2.jpg" | relative_url }}" class="img-fluid">
+<br />
+Die Pori Brigade gliedert sich aus 3 Gruppen der Utti Jäger und einem Air Detachement(Ukko).   
+
+{% for item in site.data.teams %}
+  <h2>{{ item.team.name }}</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Role</th>
+        <th scope="col">Rang</th>
+        <th scope="col">Member</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for role in item.team.roles %}
+        <tr>
+          <th scope="row">{{ role.name }}</th>
+          <th><img src="{{ "/assets/images/ranks/" | append: role.rank |append: ".png" | relative_url }}" class="img-fluid" title="{{ role.rank }}"></th>
+          <td>
+            {% if role.member == 'N/A' %}
+              {{ role.member }}
+            {% else %}
+              <b>{{ role.member }}</b>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}

@@ -8,12 +8,9 @@ title: Impressum
 
 ### Name und Anschrift
 Flavio Kleiber   
-Neugasse 8   
-6300 Zug   
-CH   
+Adresse: Auf Anfrage     
+Land: CH
 ### E-Mail-Adresse
 zerbarian@outlook.com
 ### Telefon
 Auf anfrage
-Fax
-### Auf Anfrage

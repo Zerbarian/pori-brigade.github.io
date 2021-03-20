@@ -2,19 +2,19 @@
     name: Ajatar
     roles:
         - { name: Commanding Officer, member: Realeasy, rank: ylivääpeli }
-        - { name: 2nd Commanding Officer, member: N/A, rank: sotamies }
+        - { name: 2nd Commanding Officer, member: Chapman, rank: korpraali }
         - { name: Reconnaissance, member: N/A, rank: sotamies }
-        - { name: Weapons, member: Chapman, rank: korpraali }
         - { name: Weapons, member: chnoeli, rank: korpraali }
         - { name: Engineer, member: Harlekin, rank: alikersantti }
         - { name: Medic, member: Rudi Flink, rank: kersantti }
+        - { name: Weapons, member: Crossroads, rank: alikersantti }
 - team:
     name: Piru
     roles:
         - { name: Commanding Officer, member: LADziver, rank: luutnantti }
         - { name: 2nd Commanding Officer, member: N/A, rank: sotamies }
         - { name: Reconnaissance, member: Croco, rank: alikersantti }
-        - { name: Weapons, member: Crossroads, rank: alikersantti }
+        - { name: Weapons, member: N/A, rank: sotamies }
         - { name: Engineer, member: N/A, rank: sotamies }
         - { name: Medic, member: N/A, rank: sotamies }
         - { name: JTAC, member: Bane, rank: ylikersantti }

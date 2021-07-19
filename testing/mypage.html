@@ -27,5 +27,11 @@ src="https://www.facebook.com/tr?id=1507908312886955&ev=PageView&noscript=1"
 <!-- End Facebook Pixel Code -->
 <body>
 	<h1>Test Page</h1>
+	<button id="addToCartButton">Purchase</button>
 </body>
+<script>
+	document.querySelector('#addToCartButton').addEventListener('click', () => {
+		fbq('track', 'Purchase', {currency: "USD", value: 30.00});
+	});
+</script>
 </html>

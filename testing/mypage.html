@@ -42,5 +42,48 @@ src="https://www.facebook.com/tr?id=1507908312886955&ev=PageView&noscript=1"
 	document.querySelector('#addToCartButton').addEventListener('click', () => {
 		fbq('track', 'Purchase', {currency: "USD", value: 30.00});
 	});
+	window.addEventListener('load', function() {
+		function getCookie(cname) {
+			let name = cname + "=";
+			let decodedCookie = decodeURIComponent(document.cookie);
+			let ca = decodedCookie.split(';');
+			for(let i = 0; i <ca.length; i++) {
+			  let c = ca[i];
+			  while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			  }
+			  if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			  }
+			}
+			return "";
+		}
+		
+		function findGetParameter(parameterName) {
+		    var result = null,
+			tmp = [];
+		    var items = location.search.substr(1).split("&");
+		    for (var index = 0; index < items.length; index++) {
+			tmp = items[index].split("=");
+			if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+		    }
+		    return result;
+		}
+		
+		// GA Cookie
+		const ga = getCookie('_ga');
+		
+		// FB stuff
+		const fbp = getCookie('_fbp');
+		
+		// Get FB click
+		const getParam = findGetParameter('fbclick');
+
+		console.log('========');
+		console.log('ga', ga);
+		console.log('fbp', fbp);
+		console.log('fbc', getParam);
+		console.log('========');
+	}, false);
 </script>
 </html>

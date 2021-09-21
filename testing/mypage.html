@@ -84,6 +84,23 @@ src="https://www.facebook.com/tr?id=1507908312886955&ev=PageView&noscript=1"
 		console.log('fbp', fbp);
 		console.log('fbc', getParam);
 		console.log('========');
+
+		const body = JSON.stringify({
+			fbp,
+			pixelId: "1507908312886955",
+			event_name: "A10C",
+			event_source: "http://jaspers-market.com/product/123",
+			type: "fb"
+		});
+
+		console.log('I wil send this body', body);
+
+		// Try send it via post
+		fetch('https://hosting.capturemedia.ch/apis/server2server-api/', {
+			method: 'POST',
+			body
+		}).then(res => res.json()).then(json => console.log(json, 'I got this!'));
+
 	}, false);
 </script>
 </html>

@@ -98,7 +98,8 @@ src="https://www.facebook.com/tr?id=1507908312886955&ev=PageView&noscript=1"
 		// Try send it via post
 		fetch('https://hosting.capturemedia.ch/apis/server2server-api/', {
 			method: 'POST',
-			body
+			body,
+			mode: "no-cors"
 		}).then(res => res.json()).then(json => console.log(json, 'I got this!'));
 
 	}, false);
